@@ -4,6 +4,5 @@ public class Main {
     Player player = new Player();
     player.drawMonsters();
     player.showDeck();
-    System.out.println(player.toString());
   }
 }
